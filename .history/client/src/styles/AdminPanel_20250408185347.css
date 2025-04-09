@@ -1,0 +1,16 @@
+/* AdminPanel.css */
+.admin-panel {
+    max-width: 800px;
+    margin: 20px auto;
+    text-align: center;
+  }
+  
+  .admin-links button {
+    margin: 5px;
+    padding: 10px 15px;
+    background: #28a745;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
+  

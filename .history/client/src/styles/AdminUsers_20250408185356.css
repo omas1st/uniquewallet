@@ -1,0 +1,28 @@
+/* AdminUsers.css */
+.admin-users {
+    max-width: 800px;
+    margin: 20px auto;
+  }
+  
+  .admin-login input {
+    display: block;
+    margin: 10px 0;
+    padding: 8px;
+    width: 100%;
+    max-width: 300px;
+  }
+  
+  .admin-login button {
+    padding: 8px 12px;
+  }
+  
+  .users-list .user-item {
+    padding: 10px;
+    border: 1px solid #ccc;
+    margin-bottom: 10px;
+  }
+  
+  .error-msg {
+    color: red;
+  }
+  

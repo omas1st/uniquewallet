@@ -1,0 +1,36 @@
+/* Dashboard.css */
+.dashboard-container {
+    padding: 20px;
+  }
+  
+  .portfolio-balance {
+    margin-bottom: 20px;
+  }
+  
+  .action-buttons button {
+    margin: 5px;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+  
+  .assets-list {
+    margin-top: 20px;
+  }
+  
+  .asset-item {
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    margin-bottom: 10px;
+  }
+  
+  .asset-icon {
+    width: 30px;
+    height: 30px;
+    margin-right: 10px;
+  }
+  
+  .customer-service {
+    margin-top: 20px;
+  }
+  

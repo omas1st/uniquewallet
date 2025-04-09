@@ -1,0 +1,33 @@
+/* AdminBankDetails.css */
+.admin-bank-details {
+    max-width: 800px;
+    margin: 20px auto;
+  }
+  
+  .admin-login input {
+    display: block;
+    margin: 10px 0;
+    padding: 8px;
+    width: 100%;
+    max-width: 300px;
+  }
+  
+  .bank-details-form label {
+    display: block;
+    margin: 10px 0 5px;
+  }
+  
+  .bank-details-form input {
+    width: 100%;
+    padding: 8px;
+  }
+  
+  .bank-details-form button {
+    margin-top: 10px;
+    padding: 8px 12px;
+  }
+  
+  .error-msg {
+    color: red;
+  }
+  

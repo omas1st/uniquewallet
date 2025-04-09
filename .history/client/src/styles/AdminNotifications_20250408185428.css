@@ -1,0 +1,35 @@
+/* AdminNotifications.css */
+.admin-notifications {
+    max-width: 800px;
+    margin: 20px auto;
+  }
+  
+  .admin-login input {
+    display: block;
+    margin: 10px 0;
+    padding: 8px;
+    width: 100%;
+    max-width: 300px;
+  }
+  
+  .admin-notifications .notifications-form input {
+    margin: 10px 0;
+    padding: 8px;
+    width: 100%;
+    max-width: 300px;
+  }
+  
+  .notifications-list .notification-item {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 5px 0;
+  }
+  
+  .notifications-list .notification-item button {
+    padding: 4px 8px;
+  }
+  
+  .error-msg {
+    color: red;
+  }
+  

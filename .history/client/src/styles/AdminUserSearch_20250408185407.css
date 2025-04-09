@@ -1,0 +1,26 @@
+/* AdminUserSearch.css */
+.admin-user-search {
+    max-width: 800px;
+    margin: 20px auto;
+  }
+  
+  .admin-login input {
+    display: block;
+    margin: 10px 0;
+    padding: 8px;
+    width: 100%;
+    max-width: 300px;
+  }
+  
+  .admin-login button {
+    padding: 8px 12px;
+  }
+  
+  .user-edit {
+    margin-top: 20px;
+  }
+  
+  .error-msg {
+    color: red;
+  }
+  
